@@ -5,7 +5,7 @@ public class Child extends Parent {
 String eat = "eating 2";
 
 public void function(){
-    System.out.println("jump2");
+    System.out.println("jump2");//
 
 }
 
